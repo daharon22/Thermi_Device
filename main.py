@@ -39,8 +39,8 @@ led2.value(1)
 
 sensorOneOver = False;
 sensorTwoOver = False;
-ssid = 'YONDAV2'
-password = 'Bargelona3267'
+ssid = '****'
+password = '*****'
 
 
 
@@ -157,6 +157,7 @@ time.sleep(.5)
 
     
     
+
 
 
 
