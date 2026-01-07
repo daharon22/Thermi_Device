@@ -61,7 +61,7 @@ connect()
 #    #machine.reset()
     
 
-maxTemp1=302hot4you
+maxTemp1=30
 maxTemp2=30
 def postTemp (sensor):
     mydata = {'token': '12345',
@@ -157,6 +157,7 @@ time.sleep(.5)
 
     
     
+
 
 
 
